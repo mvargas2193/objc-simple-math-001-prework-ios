@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A08D9DE8B1D33417EB8E5FEDDA0CA64C2E1C0B9C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A08D9DE8B1D33417EB8E5FEDDA0CA64C2E1C0B9C" : 0,
+    "8249E415C0975FFB5C73E01C9BBCC1E21BAC46BF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3F42F433-AA58-47E7-90E0-4F2E08F75BFB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A08D9DE8B1D33417EB8E5FEDDA0CA64C2E1C0B9C" : "objc-simple-math-001-prework-ios\/",
+    "8249E415C0975FFB5C73E01C9BBCC1E21BAC46BF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "objc-simple-math",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "objc-simple-math.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mvargas2193\/learnerrors.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8249E415C0975FFB5C73E01C9BBCC1E21BAC46BF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mvargas2193\/objc-simple-math-001-prework-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A08D9DE8B1D33417EB8E5FEDDA0CA64C2E1C0B9C"
+    }
+  ]
+}
